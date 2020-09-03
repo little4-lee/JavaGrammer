@@ -1,3 +1,5 @@
+package _00_hash;
+
 import java.util.Objects;
 
 public class HashDemo {
